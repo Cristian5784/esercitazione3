@@ -119,3 +119,7 @@ ul{
 .Navigus li .r{
     margin-right: 56px;
 }
+.line{
+    border-top: 2px solid white
+    width: 275px
+    margin-bottom: 20px;
